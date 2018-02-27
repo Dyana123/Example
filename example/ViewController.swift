@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //also this is an example of how source control works when comfigured with xcode/
     }
 
     override func didReceiveMemoryWarning() {
